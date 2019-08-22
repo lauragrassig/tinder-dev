@@ -12,6 +12,13 @@ function Login() {
       <button type="submit">Enviar</button>
       </form>
     </div>
+    <div className="login-container">
+    <form>
+    <img src={logo} alt="tindev"/>
+    <input type="text" placeholder="Informe seu usúario do Github"/>
+    <button type="submit">Enviar</button>
+    </form>
+  </div>
   );
 }
 
