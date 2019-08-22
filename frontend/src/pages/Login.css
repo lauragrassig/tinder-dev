@@ -1,14 +1,10 @@
-img {
-  height: 30px;
-}
-
+/* Login CSS */
 .login-container {
   height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
 .login-container form {
   width: 100%;
   max-width: 300px;
