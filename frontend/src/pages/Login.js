@@ -8,7 +8,7 @@ function Login() {
     <div className="login-container">
       <form>
       <img src={logo} alt="tindev"/>
-      <input type="text" placeholder="Digite seu usúario do Github"/>
+      <input type="text" placeholder="Informe seu usúario do Github"/>
       <button type="submit">Enviar</button>
       </form>
     </div>
