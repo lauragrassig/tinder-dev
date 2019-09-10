@@ -6,4 +6,4 @@
 possibilita o usuário a cadastrar desenvolvedores a partir do consumo da API do github, além da possibilidade de dar "like", 
 "dislike" e "match".
 
-**Tecnologias:** HTML5, CSS3, REACT.js
+**Tecnologias:** HTML5, CSS3 e REACT.js
