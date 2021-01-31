@@ -7,5 +7,3 @@ possibilita o usuário a cadastrar desenvolvedores a partir do consumo da API do
 "dislike" e "match".
 
 **Tecnologias:** HTML5, CSS3 e REACT.js.
-
-
