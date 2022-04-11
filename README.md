@@ -1,4 +1,4 @@
-# OmniStack Week - TindeDev
+# TinderDev
 
 **Data:** Agosto/2019
 
